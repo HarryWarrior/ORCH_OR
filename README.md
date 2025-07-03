@@ -76,3 +76,22 @@ Código adicional disponible en: **[TheonlyqueenAC/Microtubule_Simulation](https
 ```bash
 git clone https://github.com/TheonlyqueenAC/Microtubule_Simulation.git
 ```
+Estos son los requirements_HIV.txt necesarios para correr el repositorio mencionado
+```bash
+contourpy==1.3.2
+cycler==0.12.1
+fonttools==4.58.4
+kiwisolver==1.4.8
+matplotlib==3.10.3
+numpy==2.3.1
+packaging==25.0
+pillow==11.2.1
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+six==1.17.0
+```
+
+Los codigo de simulacion estan en al carpeta script 
+el codigo microtubule_quantum_coherence_full_simulation.py muestra la evolución temporal de coherencia y varianza, el codigo HIV_phase_specific_coherence_full_simulation.py la comparativa de fases de VIH con la coherencia cuantica
+
+En la carpeta de figures esta algunas de ls graficas y videos que reproducen los codigos
