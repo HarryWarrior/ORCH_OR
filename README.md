@@ -1,5 +1,5 @@
 # 🧠 Simulación Cuántica Orch-OR - Microtúbulos
-
+hdguerreror@udistrital.edu.co
 Simulación de la teoría Orch-OR usando circuitos cuánticos de 13 qubits.
 
 ## 🛠️ Instalación
